@@ -1,0 +1,2 @@
+Buenas por problemas con el peso del archivo, sigo viendo como subirlo a github. intentare subirlo en partes
+disculpen las molestias, tratare de subir por el momento el unitypackage en la parte de builds
